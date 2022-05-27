@@ -9,3 +9,5 @@ I'm about to start my rant,
   + knowing how to research is very very important,
   + i hope this solution is correct.
 so, i think this is all i can write from the top of my head.
+
+oh before i forget here's the link to the repository for this task solution https://github.com/Olokoburnfire/reading-text-file
